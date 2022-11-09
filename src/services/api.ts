@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export const api = axios.create({
-  baseURL: 'https://ignite-reactjs-maykelsantoz.vercel.app',
+  baseURL: 'https://ignite-reactjs-maykelsantoz.vercel.app/',
 });
